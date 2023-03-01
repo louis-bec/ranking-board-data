@@ -1,0 +1,28 @@
+{
+    "ranking": [
+        {
+            "name": "Louis",
+            "points": 6
+        },
+        {
+            "name": "Albert",
+            "points": 5
+        },
+        {
+            "name": "Bob",
+            "points": 1
+        },
+        {
+            "name": "Max",
+            "points": 10
+        },
+        {
+            "name": "Foo",
+            "points": 5
+        },
+        {
+            "name": "Fighter",
+            "points": 6
+        }
+    ]
+}
